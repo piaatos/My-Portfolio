@@ -1,0 +1,22 @@
+body
+{
+    background-image:url(https://th.bing.com/th/id/OIP.-oA-dtDBLewK5JOST-D4jwHaDl?w=345&h=180&c=7&r=0&o=5&pid=1.7);
+    background-position: center;
+    background-size: cover;
+}
+
+img
+{
+    border-radius: 50%;
+}
+nab
+{
+
+    width: 100%;
+    min-height: 50%;
+    background-color: rgb(159, 252, 73);
+    padding-left: 2%;
+    line-height: 50%;
+    margin-bottom: 10%;
+
+}
